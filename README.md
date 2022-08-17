@@ -1,1 +1,2 @@
-# test2
+# git
+## git push 연습
